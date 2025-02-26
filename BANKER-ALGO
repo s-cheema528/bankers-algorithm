@@ -1,0 +1,20 @@
+Banker's Algorithm Simulation Algorithm - This project simulates the Banker's Algorithm, a resource allocation and deadlock avoidance algorithm. It is implemented using Python and Tkinter for the graphical user interface.
+
+Features
+- Input for available resources and process details.
+- Dynamic addition of processes.
+- Step-by-step execution of the algorithm.
+- Visualization of the safe sequence.
+
+Technologies Used
+- Python 3.x
+- Tkinter (for GUI)
+- ttk (for themed widgets)
+
+How to Run
+1. Clone the repository.
+2. Install Python 3.x if not already installed.
+3. Run the script:
+   python bankers_algorithm.py
+
+- Follow the on-screen instructions to input data and run the algorithm.
